@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Learning and building Backend projects in Golang.
-- 💼 &nbsp; Working as a Frontend Javascript Developer at Innorik.
+- 💼 &nbsp; Working as a Frontend Javascript Developer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
